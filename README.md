@@ -1,4 +1,4 @@
-# Miniflow
+# Minilearn
 ## A Miniature tensorflow made for experimentation
 ## Classes:
 
